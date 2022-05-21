@@ -9,7 +9,27 @@
 **/
 
 @import url('https://luckfire.github.io/amoled-cord/src/support/betterdiscord/compiled.css');
+@import url("https://crearts-community.github.io/Mention-Links/src/source.css
+@import url("https://crearts-community.github.io/CreArts-Discord/clients/crearts.theme.css");  
+@import url("https://raw.githubusercontent.com/thgilciffart/thgilciffart.github.io/main/aa.css");
+@import "https://leeprky.github.io/snippits/coolsniipitsforthemes.css";
+@import url("https://stickfab.github.io/pc-fluenticons/FluentIcons.css");
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
+// @import url("https://crearts-community.github.io/Friends-Grid/theme.css");
+@import url("https://crearts-community.github.io/Context-Icons/theme.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/allignment.css");
+/* Don't remove this line because its important lol*/
 
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/activity-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/app-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/community.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/other.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/payment-settings.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/powercord.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/server.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/user-management.css");
+@import url("https://lavender-discord.github.io/Settings-Iconsax/src/user-settings.css");
+@import url("https://lavender-discord.github.io/Context-Iconsax/theme.css");
 :root {
     /* --------- BASE THEME --------- */
     --blurple-replace: #7289DA;
